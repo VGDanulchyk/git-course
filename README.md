@@ -1,2 +1,2 @@
 # git-course
-Git-course
+Basic Git commands
